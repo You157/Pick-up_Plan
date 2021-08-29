@@ -20,7 +20,7 @@
 アニメGIFなどを貼り付けて、実際の動作例を見せる。
 ![demo]
 (https://github.com/You157/Pick-up_Plan/images/送迎表.gif)
-
+https://github.com/You157/Pick-up_Plan/blob/main/images/%E9%80%81%E8%BF%8E%E8%A1%A8.gif
 ## 使い方
 ### 「送迎表」を作成する。
 『操作画面』シートの、『「送迎表」を作成』ボタンをクリック。フォームが出現するので、作成したい年月を入力しOKボタンを押す。
