@@ -17,10 +17,10 @@
 利用日の目印として、シェイプで丸を入力します。
 
 ## デモ
-アニメGIFなどを貼り付けて、実際の動作例を見せる。
-![demo]
-(https://github.com/You157/Pick-up_Plan/images/送迎表.gif)
-https://github.com/You157/Pick-up_Plan/blob/main/images/%E9%80%81%E8%BF%8E%E8%A1%A8.gif
+### 「送迎表」作成
+![送迎表作成](https://github.com/You157/Pick-up_Plan/blob/main/images/%E9%80%81%E8%BF%8E%E8%A1%A8.gif)
+### 「送迎カレンダー」作成
+![送迎カレンダー作成](https://github.com/You157/Pick-up_Plan/blob/main/images/%E9%80%81%E8%BF%8E%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC.gif)
 ## 使い方
 ### 「送迎表」を作成する。
 『操作画面』シートの、『「送迎表」を作成』ボタンをクリック。フォームが出現するので、作成したい年月を入力しOKボタンを押す。
