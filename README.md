@@ -18,6 +18,8 @@
 
 ## デモ
 アニメGIFなどを貼り付けて、実際の動作例を見せる。
+![demo]
+(https://github.com/You157/Pick-up_Plan/images/送迎表.gif)
 
 ## 使い方
 ### 「送迎表」を作成する。
